@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
+	<link rel="stylesheet" href="styles/popup.css">
+	<title>COVID INDIA</title>
+</head>
+<body>
+	<div class="grid-container">
+		<div class="grid-item header">
+			<center>  COVID-19 India</center>
+		</div>
+		<div class="grid-item switcher">
+			<span style="color: #bdbdbd;">India</span>
+			<i class="fas fa-toggle-off fa-2x fa-rotate-180" data-type="local"></i>
+			<span style="color: #bdbdbd;">
+				<div class="selectdiv">
+			<select  id="location" onchange="get_state(this.value);" style="color: #bdbdbd; font-weight: 700;font-family: 'Roboto', sans-serif;">
+                <option value="KL">Kerala</option>
+                <option value="MH">Maharastra</option>
+                <option value="DL">Delhi</option>
+                <option value="TN">TamilNadu</option>
+                <option value="RJ">Rajasthan</option>
+                <option value="MP">Madhya Pradesh</option>
+                <option value="TG">Telangana</option>
+                <option value="GJ">Gujarat</option>
+                <option value="UP">Uttar Pradesh</option>
+                <option value="AP">Andra pradesh</option>
+                <option value="JK">Jammu & Kashmir</option>
+                <option value="KA">Karnataka</option>
+                <option value="HR">Haryana</option>
+                <option value="PB">Punjab</option>
+                <option value="WB">West Bengal</option>
+                <option value="BR">Bihar</option>
+                <option value="OR">Odisa</option>
+                <option value="UT">Uttrakhand</option>
+                <option value="HP">Himachal Pradesh</option>
+                <option value="AS">Assam</option>
+                <option value="CT">Chhattisgarh</option>
+                <option value="CH">Chandigarh</option>
+                <option value="JH">Jharkhand</option>
+                <option value="LA">Ladakh</option>
+                <option value="AN">Andaman and Nicobar</option>
+                <option value="GA">Goa</option>
+                <option value="PY">Puducherry</option>
+                <option value="MN">Manipur</option>
+                <option value="TR">Tripura</option>
+                <option value="MZ">Mizoram</option>
+                <option value="AR">Arunachal Pradesh</option>
+                <option value="DN">Dadra and Nagar Haveli,Daman and Diu</option>
+                <option value="NL">Nagaland</option>
+                <option value="LD">Lakshadweep</option>
+                <option value="ML">Meghalaya</option>
+                <option value="SK">Sikkim</option>
+            </select>
+       
+        </div>
+			</span>
+		</div>
+		<div class="grid-item stats ">
+			<div class="title" style="color: #ff073a;">Confirmed</div>
+			<h4 id="confirmed"></h4>
+		</div>
+		<div class="grid-item stats" >
+			<div class="title" style="color: #007bff;">Active</div>
+			<h4 id="active"></h4>
+		</div>
+		<div class="grid-item stats">
+			<div class="title" style="color: #28a745;">Recovered</div>
+			<h4 id="rec"></h4>
+		</div>
+		<div class="grid-item stats">
+			<div class="title" style="color: #6c757d;">Deaths</div>
+			<h4 id="death"></h4>
+		</div>
+	<div class="grid-item switcher" style="color: #bdbdbd; font-weight: 700;">
+		Today's Stats
+	</div>
+	<div class="grid-item stats ">
+			<div class="title" style="color: #ff073a;">Confirmed</div>
+			<h4 id="tconfirmed"></h4>
+		</div>
+		<div class="grid-item stats" >
+			<div class="title" style="color: #007bff;">Active</div>
+			<h4 id="tactive"></h4>
+		</div>
+		<div class="grid-item stats">
+			<div class="title" style="color: #28a745;">Recovered</div>
+			<h4 id="trec"></h4>
+		</div>
+		<div class="grid-item stats">
+			<div class="title" style="color: #6c757d;">Deaths</div>
+			<h4 id="tdeath"></h4>
+		</div>
+				
+	</div>
+	<div class="footer" style="color: #bdbdbd;"><center>
+					Made by <a href="https://www.github.com/mdb571" target="_blank" style="color: #1DB954;">mdb571</a> with <i class="fas fa-heart fa-beat" style="color: #ff073a;"></i> using <a href="https://www.covidindia.org" target="_blank" style="color: #007bff;"> covidindia</a> </center>
+				</div>
+
+    <script src="scripts/popup.js"></script>
+</body>
+</html>
