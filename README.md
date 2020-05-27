@@ -19,8 +19,17 @@
 - Uses [covidindia](api.covidindia.org) API
 
 ## Download
+  - ### Firefox
+  
+     - Download for Mozilla Firefox: [CovidTrack India🦠](https://addons.mozilla.org/en-US/firefox/addon/covidtrack-india/)
 
-- Download for Mozilla Firefox: [CovidTrack India🦠](https://addons.mozilla.org/en-US/firefox/addon/covidtrack-india/)
+ - ### Chrome
+   For chrome you have to add the extension manually since it is not available in webstore.
+ 
+    - Go to the browser address bar and type `chrome://extensions`
+    - Check the `Developer Mode` button to enable it.
+    - Click on the `Load Unpacked Extension` button.
+    - Select your extension’s extracted directory.
   
 ## Screenshots
 
