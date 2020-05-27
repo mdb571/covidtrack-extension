@@ -1,37 +1,39 @@
-<div align="center"><img width="150" src="source/assets/logo.png" /></div>
+<div align="center"><img width="150" src="source/assets/icons/favicon-128.png" /></div>
 <h1 align="center">CovidTrack India</h1>
 <p align="center">Browser extension to get live updates on covid-19 based on <a href="https://covidindia.org">covidindia</a></p>
 <div align="center">
-  <a href="https://github.com/abhijithvijayan/kutt-extension/releases/latest">
-    <img src="https://img.shields.io/github/release/abhijithvijayan/kutt-extension.svg?colorB=blue" alt="Releases" />
+  <a href="https://github.com/mdb571/covidtrack-extension/releases/">
+    <img src="https://img.shields.io/amo/v/{368574fc-6a14-4943-beb2-4b9dfb0c0a6b}?style=flat-square" alt="Mozilla-Add-On" />
   </a>
   <a href="https://github.com/abhijithvijayan/kutt-extension/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/abhijithvijayan/kutt-extension.svg" alt="LICENSE" />
+    <img src="https://img.shields.io/github/license/mdb571/covidtrack-extension?style=flat-square" alt="LICENSE" />
   </a>
 </div>
-<h3 align="center">♂️ Made by <a href="https://github.com/mdb571>@mdb571</a></h3>
+<h3 align="center">Made by <a href="https://github.com/mdb571">@mdb571⚡</a></h3>
 
 ## Features
 
 - Based on covidindia.org dark mode
 - Cross Browser Support
 - Free and Open Source
-- Uses [!covidindia](api.covidindia.org) API
+- Uses [covidindia](api.covidindia.org) API
 
 ## Download
 
-- Download for Mozilla Firefox
- - Firefox: [CovidTrack India :: Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/covidtrack-india/)
+- Download for Mozilla Firefox: [CovidTrack India🦠](https://addons.mozilla.org/en-US/firefox/addon/covidtrack-india/)
   
 ## Screenshots
 
 <div>
-  <img width="250" src="./.github/assets/popup.png" alt="image1" />
+  <img width="250" src="screenshot/1.png" alt="nation" />
+</div>
+<br/>
+<div>
+  <img width="250" src="screenshot/2.png" alt="states" />
 </div>
 
-<br />
 
-## Note:
+## Note
 
 -This is my first time making a browser extension so you will feel slight bugs here and there while using it.I'll try to update as I learn on the go.. 
 
@@ -39,10 +41,14 @@
 
 Feel free to open a pull request if you can help in improving this project.
 
+## Thanks
+
+This project would'nt have been successful without using [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) made by [abhijithvijayan](https://github.com/abhijithvijayan).So kudos to this awesome developer
+
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you!❤️
 
 ## Licence
 
