@@ -16,7 +16,7 @@
 - Based on covidindia.org dark mode
 - Cross Browser Support
 - Free and Open Source
-- Uses [covidindia](api.covid19india.org) API
+- Uses [covid19india](https://api.covid19india.org/) API
 
 ## Download
   - ### Firefox
