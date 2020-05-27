@@ -5,7 +5,7 @@
   <a href="https://github.com/mdb571/covidtrack-extension/releases/">
     <img src="https://img.shields.io/amo/v/{368574fc-6a14-4943-beb2-4b9dfb0c0a6b}?style=flat-square" alt="Mozilla-Add-On" />
   </a>
-  <a href="https://github.com/abhijithvijayan/kutt-extension/blob/master/LICENSE">
+  <a href="https://github.com/mdb571/covidtrack-extension/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mdb571/covidtrack-extension?style=flat-square" alt="LICENSE" />
   </a>
 </div>
