@@ -44,7 +44,7 @@
 
 ## Note
 
--This is my first time making a browser extension so you will feel slight bugs here and there while using it.I'll try to update as I learn on the go.. 
+This is my first time making a browser extension so you will feel slight bugs here and there while using it.I'll try to update as I learn on the go.. 
 
 ## Contributing and Support
 
@@ -52,7 +52,7 @@ Feel free to open a pull request if you can help in improving this project.
 
 ## Thanks
 
-This project would'nt have been successful without using [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) made by [abhijithvijayan](https://github.com/abhijithvijayan).So kudos to this awesome developer
+This project would'nt have been successful without using [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) made by [abhijithvijayan](https://github.com/abhijithvijayan).So kudos to this awesome developer⚡🎉
 
 
 ## Show your support
