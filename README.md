@@ -1,6 +1,6 @@
 <div align="center"><img width="150" src="source/assets/icons/favicon-128.png" /></div>
 <h1 align="center">CovidTrack India</h1>
-<p align="center">Browser extension to get live updates on covid-19 based on <a href="https://covid19india.org">covidindia</a></p>
+<p align="center">Browser extension to get live updates on covid-19 based on <a href="https://covid19india.org">covid19india</a></p>
 <div align="center">
   <a href="https://github.com/mdb571/covidtrack-extension/releases/">
     <img src="https://img.shields.io/amo/v/{368574fc-6a14-4943-beb2-4b9dfb0c0a6b}?style=flat-square" alt="Mozilla-Add-On" />
