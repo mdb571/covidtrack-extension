@@ -2,9 +2,6 @@
 <h1 align="center">CovidTrack India</h1>
 <p align="center">Browser extension to get live updates on covid-19 based on <a href="https://covid19india.org">covid19india</a></p>
 <div align="center">
-  <a href="https://github.com/mdb571/covidtrack-extension/releases/">
-    <img src="https://img.shields.io/amo/v/{368574fc-6a14-4943-beb2-4b9dfb0c0a6b}?style=flat-square" alt="Mozilla-Add-On" />
-  </a>
   <a href="https://github.com/mdb571/covidtrack-extension/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mdb571/covidtrack-extension?style=flat-square" alt="LICENSE" />
   </a>
@@ -18,14 +15,12 @@
 - Free and Open Source
 - Uses [covid19india](https://api.covid19india.org/) API
 
-## Download
+## Usage
   - ### Firefox
-  
-     - Download for Mozilla Firefox: [CovidTrack India🦠](https://addons.mozilla.org/en-US/firefox/addon/covidtrack-india/)
+    - Load the Add-on via about:debugging as temporary Add-on.
+    - Choose the manifest.json file in the extracted directory
 
  - ### Chrome
-   For chrome you have to add the extension manually since it is not available in webstore.
- 
     - Go to the browser address bar and type `chrome://extensions`
     - Check the `Developer Mode` button to enable it.
     - Click on the `Load Unpacked Extension` button.
