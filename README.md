@@ -5,6 +5,9 @@
   <a href="https://github.com/mdb571/covidtrack-extension/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mdb571/covidtrack-extension?style=flat-square" alt="LICENSE" />
   </a>
+<a href="http://hits.dwyl.com/mdb571/covidtrack-extension">
+    <img src="https://hits.dwyl.com/mdb571/covidtrack-extension.svg" alt="Hits" />
+  </a>
 </div>
 <h3 align="center">Made by <a href="https://github.com/mdb571">@mdb571⚡</a></h3>
 
