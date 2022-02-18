@@ -27,7 +27,7 @@
     "lint:fix": "eslint . --ext .js --fix"
   },
   "dependencies": {
-    "@babel/runtime": "^7.9.6",
+    "@babel/runtime": "^7.16.7",
     "advanced-css-reset": "^1.1.1",
     "emoji-log": "^1.0.2",
     "webext-base-css": "^1.1.0",
